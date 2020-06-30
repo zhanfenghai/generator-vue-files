@@ -1,0 +1,27 @@
+{
+  "name": "generator-vue-files",
+  "version": "1.0.0",
+  "description": "自动生成vue文件，包括store，view，component",
+  "main": "plopfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new": "plop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanfenghai/generator-vue-files.git"
+  },
+  "keywords": [
+    "plop",
+    "vue-files"
+  ],
+  "author": "zhanfenghai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanfenghai/generator-vue-files/issues"
+  },
+  "homepage": "https://github.com/zhanfenghai/generator-vue-files#readme",
+  "dependencies": {
+    "plop": "^2.7.1"
+  }
+}
